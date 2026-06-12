@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/0x0Dx/x/cliimage/internal/blocks"
+	"github.com/oxodx/x/cliimage/internal/blocks"
 	"github.com/spf13/cobra"
 )
 

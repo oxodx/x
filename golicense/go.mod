@@ -1,3 +1,3 @@
-module github.com/0x0Dx/x/golicense
+module github.com/oxodx/x/golicense
 
 go 1.25.7

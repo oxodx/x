@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/0x0Dx/x/cliimage/cmd"
+	"github.com/oxodx/x/cliimage/cmd"
 )
 
 func main() {

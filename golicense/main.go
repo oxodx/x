@@ -10,7 +10,7 @@ import (
 	"os/exec"
 	"strings"
 
-	"github.com/0x0Dx/x/golicense/licenses"
+	"github.com/oxodx/x/golicense/licenses"
 )
 
 var (

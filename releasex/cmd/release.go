@@ -8,8 +8,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/0x0Dx/x/releasex/internal/config"
-	"github.com/0x0Dx/x/releasex/internal/github"
+	"github.com/oxodx/x/releasex/internal/config"
+	"github.com/oxodx/x/releasex/internal/github"
 	"github.com/spf13/cobra"
 )
 

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/0x0Dx/x/releasex/cmd"
+	"github.com/oxodx/x/releasex/cmd"
 )
 
 func main() {

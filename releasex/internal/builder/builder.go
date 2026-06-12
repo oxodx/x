@@ -7,7 +7,7 @@ import (
 	"os/exec"
 	"path/filepath"
 
-	"github.com/0x0Dx/x/releasex/internal/config"
+	"github.com/oxodx/x/releasex/internal/config"
 )
 
 // Result contains the result of a build.

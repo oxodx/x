@@ -58,7 +58,7 @@ checksums:
           cliimage, goserv, gitx, golicense, releasex]
 
 github:
-  - owner: 0x0Dx
+  - owner: oxodx
     repo: x
     version: tag
     draft: false

@@ -13,11 +13,11 @@ Monorepo containing tools.
 ## Installation 
   
 ```bash
-go install github.com/0x0Dx/x/cliimage@main
-go install github.com/0x0Dx/x/golicense@main
-go install github.com/0x0Dx/x/goserv@main
-go install github.com/0x0Dx/x/gitx@main
-go install github.com/0x0Dx/x/releasex@main
+go install github.com/oxodx/x/cliimage@main
+go install github.com/oxodx/x/golicense@main
+go install github.com/oxodx/x/goserv@main
+go install github.com/oxodx/x/gitx@main
+go install github.com/oxodx/x/releasex@main
 ```
 
 ## Development

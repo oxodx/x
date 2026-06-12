@@ -5,7 +5,7 @@ CLI tool for generating license files.
 ## Installation
 
 ```bash
-go install github.com/0x0Dx/x/golicense@latest
+go install github.com/oxodx/x/golicense@latest
 ```
 
 ## Usage

@@ -1,4 +1,4 @@
-module github.com/0x0Dx/x/releasex
+module github.com/oxodx/x/releasex
 
 go 1.25.7
 

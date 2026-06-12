@@ -5,7 +5,7 @@ A simple release tool for Go projects.
 ## Installation
 
 ```bash
-go install github.com/0x0Dx/x/releasex@main
+go install github.com/oxodx/x/releasex@main
 ```
 
 ## Quick Start

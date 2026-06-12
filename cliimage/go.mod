@@ -1,4 +1,4 @@
-module github.com/0x0Dx/x/cliimage
+module github.com/oxodx/x/cliimage
 
 go 1.25.7
 

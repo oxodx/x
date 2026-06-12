@@ -5,10 +5,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/0x0Dx/x/releasex/internal/archiver"
-	"github.com/0x0Dx/x/releasex/internal/builder"
-	"github.com/0x0Dx/x/releasex/internal/checksums"
-	"github.com/0x0Dx/x/releasex/internal/config"
+	"github.com/oxodx/x/releasex/internal/archiver"
+	"github.com/oxodx/x/releasex/internal/builder"
+	"github.com/oxodx/x/releasex/internal/checksums"
+	"github.com/oxodx/x/releasex/internal/config"
 	"github.com/spf13/cobra"
 )
 

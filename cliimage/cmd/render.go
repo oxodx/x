@@ -12,7 +12,7 @@ import (
 	_ "image/jpeg" // Register JPEG format decoders.
 	_ "image/png"  // Register PNG format decoders.
 
-	"github.com/0x0Dx/x/cliimage/internal/renderer"
+	"github.com/oxodx/x/cliimage/internal/renderer"
 	"github.com/spf13/cobra"
 )
 
