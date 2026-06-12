@@ -22,7 +22,6 @@ var (
 
 func init() {
 	flag.Usage = func() {
-		//nolint:gosec
 		fmt.Fprintf(os.Stderr, "Usage: %s [options] <license>\n\n", os.Args[0])
 		flag.PrintDefaults()
 		fmt.Fprintf(os.Stderr, "\nLicense name can be one of: ")
