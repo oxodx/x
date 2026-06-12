@@ -79,7 +79,6 @@ func runRender(_ *cobra.Command, _ []string) error {
 
 	if cfg.OutputFile != "" {
 		outputPath := filepath.Clean(cfg.OutputFile)
-		//nolint:gosec // G703: false positive - path is cleaned by filepath.Clean
 		if err := os.WriteFile(outputPath, []byte(result), 0o600); err != nil {
 			fmt.Fprintf(os.Stderr, "Error writing output file: %v\n", err)
 			return fmt.Errorf("failed to write output file: %w", err)
