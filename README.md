@@ -1,4 +1,4 @@
-# 0x0D's experimental packages 
+# oxod's experimental packages 
 
 Monorepo containing tools.
 
