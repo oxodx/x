@@ -7,7 +7,7 @@ linters:
     - exhaustive
     - goconst
     - godot
-    - godox  
+    - godox
     - goprintffuncname
     - gosec
     - misspell
@@ -42,4 +42,3 @@ formatters:
     - goimports
   exclusions:
     generated: lax
-    

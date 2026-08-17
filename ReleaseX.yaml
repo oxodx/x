@@ -54,8 +54,20 @@ archives:
     format: tar.gz
 
 checksums:
-  - ids: [_main, _cliimage, _goserv, _gitx, _golicense, _releasex,
-          cliimage, goserv, gitx, golicense, releasex]
+  - ids:
+      [
+        _main,
+        _cliimage,
+        _goserv,
+        _gitx,
+        _golicense,
+        _releasex,
+        cliimage,
+        goserv,
+        gitx,
+        golicense,
+        releasex,
+      ]
 
 github:
   - owner: oxodx
